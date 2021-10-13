@@ -1,4 +1,5 @@
 {
+  "develop:ci": "CHOKIDAR_USEPOLLING=1 npm start",
   "name": "breej",
   "version": "0.1.0",
   "private": true,
